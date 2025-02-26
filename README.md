@@ -19,7 +19,7 @@ Este projeto implementa um **Algoritmo Genético** para simular a evolução de 
 
 1. **Clone o repositório:**
    ```sh
-   git clone [https://github.com/seu-usuario/algoritmo-genetico.git](https://github.com/AbnerSLima/algoritmo-genetico-ML)
+   git clone https://github.com/seu-usuario/algoritmo-genetico.git
    ```
 2. **Acesse a pasta do projeto:**
    ```sh
@@ -54,7 +54,7 @@ algoritmo-genetico-aliens/
 
 ## 📸 Demonstração
 
-(Sugestão: Adicione capturas de tela ou um GIF do funcionamento do projeto.)
+
 
 ## 🏆 Créditos
 
