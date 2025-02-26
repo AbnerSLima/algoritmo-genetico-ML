@@ -44,7 +44,7 @@ Este projeto implementa um **Algoritmo Genético** para simular a evolução de 
 ## 🖥️ Estrutura do Projeto
 
 ```
-algoritmo-genetico-aliens/
+algoritmo-genetico-ML/
 │── index.html       # Página principal
 │── style.css        # Estilos do projeto
 │── script.js        # Lógica do algoritmo genético
@@ -54,7 +54,7 @@ algoritmo-genetico-aliens/
 
 ## 📸 Demonstração
 
-
+(algoritmo-genetico-ML/preview.png)
 
 ## 🏆 Créditos
 
