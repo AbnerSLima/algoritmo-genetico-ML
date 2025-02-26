@@ -58,7 +58,7 @@ algoritmo-genetico-aliens/
 
 ## 🏆 Créditos
 
-Projeto desenvolvido por [Seu Nome](https://github.com/seu-usuario) ✨.
+Projeto desenvolvido por [Abner Silva](https://github.com/seu-usuario) ✨.
 
 ---
 
