@@ -1,0 +1,71 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  color: greenyellow;
+  background-color: black;
+}
+
+.titulo {
+  margin-top: 25px;
+  margin-bottom: 30px;
+}
+
+button {
+  font-weight: 700;
+  color: black;
+  background-image: linear-gradient(to bottom right, greenyellow, rgb(130, 217, 0));
+  border: 2px #333 outset;
+  border-radius: 16px;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+button:hover {
+  background-image: linear-gradient(to bottom right, rgb(130, 217, 0), greenyellow);
+  box-shadow: 0 6px 8px 0 rgba(0,0,0,0.24), 0 9px 25px 0 rgba(0,0,0,0.19);
+}
+
+button:active {
+  background-image: linear-gradient(to bottom right, rgb(130, 217, 0), greenyellow);
+  box-shadow: 0 3px 4px 0 rgba(0,0,0,0.24), 0 4px 12px 0 rgba(0,0,0,0.19);
+  transform: translateY(3px);
+}
+
+.alien-container {
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  margin: 5px;
+}
+
+.populacao3 {
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.mutation-row {
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+hr {
+  margin-top: 40px;
+  border: none;
+}
+
+.etapa {
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 16px;
+  margin: 20px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #fff;
+  color: #000;
+}

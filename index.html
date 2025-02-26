@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Algoritmo Genético - Aliens</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="titulo">
+            <h1>Algoritmo Genético 👽 Evolução dos Aliens</h1>
+        </div>
+        
+        <div class="etapa">
+            <h2>População inicial de Aliens</h2>
+            <button onclick="gerarPopulacao()">Gerar População</button>
+            <div id="populacao"></div>
+        </div>
+        
+        <div class="etapa">
+            <h2>Seleção aleatória</h2>
+            <button onclick="selecaoNatural()">Seleção Natural</button>
+            <div id="populacao2"></div>
+        </div>
+        
+        <div class="etapa">
+            <h2>Cross-Over</h2>
+            <button onclick="crossOver()">Cross-Over</button>
+            <div class="populacao3" id="populacao3"></div>
+        </div>
+        
+        <div class="etapa">
+            <h2>Mutação</h2>
+            <button onclick="mutacao()">Mutação</button>
+            <div id="populacao4"></div>
+        </div>
+
+        <script src="./script.js"></script>
+    </body>
+</html>
