@@ -52,10 +52,6 @@ algoritmo-genetico-ML/
 │── README.md        # Documentação do projeto
 ```
 
-## 📸 Demonstração
-
-(algoritmo-genetico-ML/preview.png)
-
 ## 🏆 Créditos
 
 Projeto desenvolvido por [Abner Silva](https://github.com/AbnerSLima) ✨.
